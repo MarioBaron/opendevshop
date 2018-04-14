@@ -1,0 +1,27 @@
+
+# devshop repos
+aegir-home
+aegir-dockerfiles
+aegir-tests
+dockerfiles
+documentation
+hosting
+hostmaster
+provision
+
+
+# Local config
+.vagrant
+devmaster_id_rsa.pub
+
+# Symfony code
+vendor
+
+# Development Mode Indicator File
+.development_mode
+
+# Ansible inventory file.
+inventory
+
+# PHPStorm files
+.idea
